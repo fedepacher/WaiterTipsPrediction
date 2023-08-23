@@ -4,7 +4,7 @@
 
 # Introduction
 
-This poject is about waiters tips prediction using machine learning models to predict the customers behavior.
+This project is about waiters' tips prediction using machine learning models to predict the customers behavior.
 
 
 # Data Content
